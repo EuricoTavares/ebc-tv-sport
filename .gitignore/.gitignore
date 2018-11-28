@@ -1,0 +1,6 @@
+echo "# ebc-tv-sport" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/EuricoTavares/ebc-tv-sport.git
+git push -u origin master
